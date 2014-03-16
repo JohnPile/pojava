@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pom.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/exception/InconceivableException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/exception/InitializationException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/exception/PersistenceException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/exception/ReflectionException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/exception/package.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/lang/Accessors.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/lang/Binding.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/lang/BoundString.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/lang/Processor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/lang/UncheckedBinding.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/lang/package.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/transformation/BindingAdaptor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/transformation/BooleanIntegerAdaptor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/transformation/BooleanYNAdaptor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/transformation/DefaultAdaptor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/transformation/UncheckedAdaptor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/transformation/package.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/util/Compression.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/util/DataPump.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/util/EncodingTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/util/EncryptionTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/util/HashingAlgorithm.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/util/HashingTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/util/ProcessTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/util/ReflectionTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/util/StringTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/pojava/util/package.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/org/pojava/examples/People.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/org/pojava/examples/Person.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/org/pojava/lang/BindingTester.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/org/pojava/lang/BoundStringTester.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/org/pojava/transformation/BooleanIntegerAdaptorTester.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/org/pojava/transformation/BooleanYNAdaptorTester.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/org/pojava/transformation/DefaultAdaptorTester.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/org/pojava/util/CompressionTester.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/org/pojava/util/EncodingToolTester.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/org/pojava/util/EncryptionToolTester.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/org/pojava/util/HashingToolTester.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/org/pojava/util/ProcessToolTester.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/org/pojava/util/ReflectionToolTester.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/org/pojava/util/StringToolTester.java" charset="UTF-8" />
+  </component>
+</project>
+
