@@ -9,7 +9,7 @@
     <artifactId>pojava</artifactId>
     <packaging>jar</packaging>
     <name>POJava Utilities</name>
-    <version>3.0.2</version>
+    <version>3.0.3</version>
     <description>
         POJava is a simple, light-weight Java-based library providing a variety of
         utilities for data transformation.
@@ -155,7 +155,7 @@
         <dependency>
             <groupId>org.pojava</groupId>
             <artifactId>datetime</artifactId>
-            <version>3.0.1</version>
+            <version>3.0.2</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
